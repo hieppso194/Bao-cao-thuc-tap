@@ -3,9 +3,9 @@
 ----
 #Mục lục
 ##[I. Công cụ PowerBI.] (#1)
-  ###[I.1 Công cụ PowerBI là gì?] (#1.1)
-  ###[I.2 PowerBI Desktop.] (#1.2)
-    ####[I.2.1 PowerBI Desktop là gì?] (#1.2.1)
+  [I.1 Công cụ PowerBI là gì?] (#1.1).
+  [I.2 PowerBI Desktop.] (#1.2).
+    ####[I.2.1 PowerBI Desktop là gì?] (#1.2.1).
     ####[I.2.2 PowerBI Desktop kết nối dữ liệu như thế nào?] (#1.2.2)
     ####[I.2.3 Làm sạch dữ liệu.] (#1.2.3)
 ##[II. Nền tảng Microsoft Azure.] (#2)
