@@ -25,5 +25,6 @@ bạn muốn.
 ####1.2.1 PowerBI Desktop là gì?
 * BI Desktop là một công cụ để kết nối, làm sạch, và hiển thị dữ liệu của bạn. Với Power BI Desktop, bạn có thể kết nối dữ liệu
 và sau đó mô hình hóa và hiển thị nó theo những cách khác nhau. 
+
 ####1.2.2 PowerBI Desktop kết nối dữ liệu như thế nào?
 * 
