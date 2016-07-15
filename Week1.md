@@ -22,9 +22,14 @@ bạn muốn.
   
 ----
 ###I.2 PowerBI Desktop.
-####1.2.1 PowerBI Desktop là gì?
-* BI Desktop là một công cụ để kết nối, làm sạch, và hiển thị dữ liệu của bạn. Với Power BI Desktop, bạn có thể kết nối dữ liệu
+####I.2.1 PowerBI Desktop là gì?
+* PowerBI Desktop là một công cụ để kết nối, làm sạch, và hiển thị dữ liệu của bạn. Với Power BI Desktop, bạn có thể kết nối dữ liệu
 và sau đó mô hình hóa và hiển thị nó theo những cách khác nhau. 
 
-####1.2.2 PowerBI Desktop kết nối dữ liệu như thế nào?
-* 
+####I.2.2 PowerBI Desktop kết nối dữ liệu như thế nào?
+* PowerBI Desktop có thể kết nối với một loạt các nguồn dữ liệu, bao gồm cả cơ sở dữ liệu trên local, bảng tính Excel, và các dịch vụ điện toán đám mây. Hiện nay, hơn 59 dịch vụ đám mây khác nhau như GitHub và Marketo có kết nối cụ thể, và bạn có thể kết nối với các nguồn chung thông qua XML, CSV, văn bản, và ODBC. 
+  ![](http://i.imgur.com/TY4GsMe.png)
+* Sau khi kết nối, cửa sổ đầu tiên bạn sẽ thấy là Navigator. Các Navigator hiển thị các bảng hoặc các thực thể của nguồn dữ liệu của bạn, và click vào những cung cấp cho bạn một bản xem trước nội dung của nó. Sau đó bạn có thể import các bảng được lựa chọn của bạn ngay lập tức, hoặc chọn Chỉnh sửa để thay đổi và làm sạch dữ liệu của bạn trước khi import. 
+  ![](http://i.imgur.com/lbdow5m.png)
+* Một khi bạn đã lựa chọn các bảng bạn muốn đưa vào PowerBI Desktop, bạn có thể chọn để load chúng vào PowerBI Desktop bằng cách chọn nút Load ở góc dưới bên phải của Navigator.Bạn có thể muốn thay đổi các bảng trước khi bạn load chúng vào Power BI Desktop. Bạn có thể muốn chỉ là một tập hợp con của khách hàng, hoặc lọc dữ liệu cho bán hàng mà chỉ xảy ra ở một quốc gia cụ thể. Trong những trường hợp đó, bạn có thể chọn nút Edit và lọc hoặc biến đổi dữ liệu trước khi đưa tất cả vào điện BI Desktop.
+  ![](http://i.imgur.com/t6AE7Lm.png)
