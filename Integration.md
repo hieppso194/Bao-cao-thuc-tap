@@ -18,10 +18,9 @@
 ## Tích hợp local Database với Azure Microsoft.
 * Chúng ta tiến hành việc tích hợp local Database với nền tảng Azure Microsoft theo các bước sau đây (ở đây tôi dùng local DBMS là Sql
 Server 2016):
-* **Bước 1: **Kết nối từ local server tới azure sql server.
+* *Bước 1: *Kết nối từ local server tới azure sql server.
 
-![](http://imgur.com/UwdEDth)
-![](http://imgur.com/1eeKyGq)
-![](http://imgur.com/1iat9xw)
-
-* **Lưu ý: **Để kết nối chúng ta cần điền các thông tin là: tên sql server trên Azure, tài khoản admin và password.
+![](http://imgur.com/UwdEDth.png)
+![](http://imgur.com/1eeKyGq.png)
+![](http://imgur.com/1iat9xw.png)
+* *Lưu ý: *Để kết nối chúng ta cần điền các thông tin là: tên sql server trên Azure, tài khoản admin và password.
